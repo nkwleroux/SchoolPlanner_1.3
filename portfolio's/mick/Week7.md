@@ -1,0 +1,9 @@
+Vanaf thuis ben ik deze week aan de slag gegaan met het zorgen voor een vertraagde animatie. Dit moest gedaan worden omdat nu de sprites enorm snel vervangen werden. Dit zorgde voor een onverzorgd beeld. 
+
+De keuze die ik uiteindelijk had genomen om deze delay te maken was door middel van een counter. De voornaamste reden dat ik deze beslissing had genomen was omdat door middel van Timer zou het dezelfde delay hebben over alle versnellingen. Door middel van het gebruik van een counter, is dit afhankelijk van het aantal updates, waardoor dit soepel overloopt in de versnellingen. 
+
+Verder zijn er nog een aantal besprekingen geweest binnen de groep. Deze waren vooral met betrekking tot de afronding. We hebben de laatste bugs geïnventariseerd. Deze bestonden uit een koppelingsissue in de GUI, het inspawnen van de docenten en het toevoegen van een paar extra features. 
+
+Omdat we allemaal nog werk hadden aan Graphics2D lessen, besloten we daar de focus op te leggen en in week 10 het project weet op te pakken voor de laatste issues tenzij we een noodzakelijke melding krijgen van Johan. Er was namelijk naar voren gekomen dat we mogelijk graphics2d moesten gebruiken in het project voor de map ipv javafx. Hier hebben we op dit moment nog geen antwoord van helaas.
+
+Het laatste dat besproken was, was de manier van werken. Omdat we allemaal thuis zitten nu, moesten er hier afspraken over gemaakt worden. Deze zijn niet concreet vastgelegd. De globale beslissing was contact via discord/whatsapp. Iedereen is zelfstandig verder gegaan aan zijn eigen taken, inclusief mijzelf. Het project nam hierdoor een kleine pauze tot verdere informatie. Iedereen ging akkoord met deze beslissing.

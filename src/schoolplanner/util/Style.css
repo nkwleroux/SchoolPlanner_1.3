@@ -1,0 +1,5 @@
+#buttonSchedulePicker, #buttonSettings, #buttonStartSim, #buttonContacts {
+    -fx-color: lightgray;
+    -fx-background-radius: 10
+}
+

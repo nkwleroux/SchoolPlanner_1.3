@@ -1,0 +1,7 @@
+Tijdens deze week hebben we veel overleg gedaan over de laatste punten. Deze zijn onder andere de presentaties, portofolio's en de laatste features.
+
+Met stijn ben ik in overleg geweest over het inladen van de teacher sprites. Eerst was het idee om er een aparte handle van te maken en aparte sets op te slaan ervoor. We hebben uiteindelijk gekozen om het in dezelfde map op te slaan en dan op basis van setnummer een split in te voeren om onderscheid te maken tussen de 2 typen.
+
+Verder hebben we besloten om toch een poging te doen om alles om te bouwen naar canvas, nadat we pas midden deze week te horen kregen van Johan dat we dit moeten doen. Om deze rede hebben we maar 3 dagen om dit om te bouwen en is hier veel tijd voor geresveerd.
+
+Tijdens het ombouwen van javafx naar java2d moesten er ook weizigingen gedaan worden aan het inladen van de sprites. Deze taak heb ik op mijzelf genomen. Door de wijzigingen zijn de studenten ook bufferedImages gaan gebruiken in plaats van images. Het inladen van de sprites was hiermee makkelijker, maar de spriteset en spritecontroller moesten hier wel op aangepast worden. Ook moesten deze nu een functie aanroepen in plaats van de image aan te passen in een imageView. Deze beslissingen zijn genomen uit gemak en gelijk toegepast.

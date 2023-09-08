@@ -1,0 +1,1 @@
+Deze week lag de focus op java2d en P&OC/PVO interviews voor de projectgroep, ik heb aan het project verder geen werk aan verricht deze week.
